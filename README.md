@@ -1,5 +1,5 @@
  # Personal Website
-Main website hosted from this repository is developed based on 5 key:
+Main website hosted from this repository is developed based on 5 keys:
 * Performance (Based on chrome lighthouse)
 * Best Practices (Based on chrome lighthouse)
 * Accessibility (Based on chrome lighthouse)
