@@ -11,7 +11,8 @@ h1{text-align:center;}
 .bg-light-green {background-color: #0efab0;}
 .bg-pink{background-color: #fa0e58;}
 
-li{display: inline-block;margin:0 15px}
+ul{padding:0;width:100%;overflow-x: scroll;white-space:nowrap}
+li{display: inline-block;margin:0 15px;}
 /* use following style to adjust background size */
 /* background-size: 1000% auto;*/
 .icon-fm-1{background-position: -814px 4px;}
